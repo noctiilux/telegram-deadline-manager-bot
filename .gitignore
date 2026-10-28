@@ -1,0 +1,6 @@
+uni_bot/.env 
+.idea/ 
+__pycache__/ 
+uni_bot/__pycache__/ 
+*.db 
+*.log 
